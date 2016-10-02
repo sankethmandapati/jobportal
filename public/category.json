@@ -1,0 +1,106 @@
+[{
+		"category" : "IT Jobs",
+		 "subcategory" : [{
+			"company" : "Accenture",
+			"experience" : "2 years",
+			"role" : "Application developer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Sandisk",
+			"experience" : "1.5 years",
+			"role" : "Testing",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 15,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "HP",
+			"experience" : "3 years",
+			"role" : ".Net developer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Sapient",
+			"experience" : "2 years",
+			"role" : "Java developer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			}]
+		},{
+		"category" : "Engineering Jobs",
+		 "subcategory" : [{
+			"company" : "L&T",
+			"experience" : "2 years",
+			"role" : "Civil Engineer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 15,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Lanco",
+			"experience" : "1.5 years",
+			"role" : "Ellectrical Engineer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 15,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Cocacola",
+			"experience" : "3 years",
+			"role" : "Mechanical Engineer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Nvedia",
+			"experience" : "2 years",
+			"role" : "Circuit Design Engineer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			}]
+		},{
+		"category" : "Government",
+		 "subcategory" : [{
+			"company" : "RRB",
+			"experience" : "Freshers",
+			"role" : "Locopilot",
+			"description" : "xyz",
+			"qualification" : "Any Graduation",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Andhra Bank",
+			"experience" : "1.5 years",
+			"role" : "Head Clerk",
+			"description" : "xyz",
+			"qualification" : "BSc",
+			"vacencies" : 15,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "xyz",
+			"experience" : "3 years",
+			"role" : ".Net developer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Police",
+			"experience" : "2 years",
+			"role" : "Java developer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			}]
+		}]

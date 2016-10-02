@@ -1,0 +1,84 @@
+
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="feature_header text-center">
+                    <h3 class="feature_title">{{title}}</h3>
+                    <div class="divider"></div>
+                </div>
+            </div>
+        </div>
+             <div class="contact_full">
+                <div class="col-md-3">
+                </div>
+                <div class="col-md-6 text-center">
+                <form class="form-horizontal" name="myName" novalidate>
+                  <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">First Name</label>
+                    <div class="col-sm-10">
+                    <input type="hidden" ng-model="profile._id">
+                      <input type="text" ng-model="profile.firstname" class="form-control" id="inputPassword3" placeholder="First name">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">Last Name</label>
+                    <div class="col-sm-10">
+                      <input type="text" class="form-control" ng-model="profile.lastname" id="inputPassword3" placeholder="Last name">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
+                    <div class="col-sm-10">
+                      <input type="email" class="form-control" ng-model="profile.emailid" id="inputEmail3" placeholder="Email">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
+                    <div class="col-sm-10">
+                      <input type="password" class="form-control" ng-model="profile.password" id="inputPassword3" placeholder="Password">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">Confirm Password</label>
+                    <div class="col-sm-10">
+                      <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">Mobile Number</label>
+                    <div class="col-sm-10">
+                      <input type="text" class="form-control" ng-model="profile.mobilenumber" id="inputPassword3" placeholder="Password">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">Upload Resume</label>
+                    <div class="col-sm-10">
+                      <input type="file" class="form-control" ng-model="profile.mobilenumber">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">Upload your photo</label>
+                    <div class="col-sm-10">
+                      <input type="file" class="form-control" ng-model="profile.mobilenumber">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                      <button type="button" ng-click="updateProfile(profile)" class="btn btn-default">Update</button>
+                    </div>
+                    <div class="col-sm-offset-2 col-sm-10">
+                      <button type="button" ng-click="deleteProfile(profile._id)" class="btn btn-default">Delete Profile</button>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                      <button type="reset" class="btn btn-default">Reset</button>
+                    </div>
+                  </div>
+                </form>
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+    </div>
+</section>

@@ -1,0 +1,47 @@
+{"enggjobs" : [{
+			"company" : "L&T",
+			"logo" : "/images/l&t.png",
+			"experience" : "2 years",
+			"role" : "Civil Engineer",
+			"description" : "Larsen & Toubro Limited, also known as L&T is an Indian multi-national conglomerate headquartered in Mumbai, Maharashtra, India. It was founded by Danish engineers taking refuge in India, as well as an Indian financing partner. The company has business interests in engineering, construction, manufacturing goods, information technology, and financial services, and also has an office in the Middle-East and other parts of Asia.
+
+L&T is India's largest engineering and construction company. Described by NDTV in 2013 as a bellwether of India's engineering & construction sector, L&T was recognised as the Company of the Year in Economic Times 2010 awards",
+			"qualification" : "B.Tech",
+			"vacencies" : 15,
+			"salary" : "2.3 LPA",
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Lanco",
+			"logo" : "/images/lanco.png",
+			"experience" : "1.5 years",
+			"role" : "Ellectrical Engineer",
+			"description" : "In June 2013, Lanco had won a contract for setting up two 300 MW power plants in Gujarat. However, the contract was cancelled in October 2013, when the company failed to put up the 10% guarantee required in the contract. 
+
+By July 2013, the company had filed for debt restructuring, citing a business slowdown. In September, it was revealed that the company had cut down its employees by nearly half. In December 2006, the company won a large contract citing a collaboration with Singapore firm Globeleq.",
+			"qualification" : "B.Tech",
+			"vacencies" : 15,
+			"salary" : "2.7 LPA",
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Cocacola",
+			"logo" : "/images/cocacola.png",
+			"experience" : "3 years",
+			"role" : "Mechanical Engineer",
+			"description" : "Coca-Cola is a carbonated soft drink. It is produced by The Coca-Cola Company of Atlanta, Georgia, and is often referred to simply as Coke (a registered trademark of The Coca-Cola Company in the United States since March 27, 1944). Originally intended as a patent medicine when it was invented in the late 19th century by John Pemberton, Coca-Cola was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coke to its dominance of the world soft-drink market throughout the 20th century. The name refers to two of its original ingredients: kola nuts, a source of caffeine, and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"salary" : "1.8 LPA",
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Nvedia",
+			"logo" : "/images/nvedia.png",
+			"experience" : "2 years",
+			"role" : "Circuit Design Engineer",
+			"description" : "NVIDIA Corporation (/ɪnˈvɪdiə/ in-vid-eeə) (commonly referred to as Nvidia, stylized as NVIDIA, nVIDIA or nvidia) began as an American technology company based in Santa Clara, California. Nvidia designs graphics processing units (GPUs) for the gaming market, as well as system on a chip units (SOCs) for the mobile computing and automotive market. Nvidia's primary GPU product line, labeled GeForce, is in direct competition with Advanced Micro Devices' (AMD) Radeon products. Nvidia expanded its presence in the gaming industry with its handheld SHIELD Portable, SHIELD Tablet, and SHIELD Android TV.
+
+Since 2014, Nvidia has shifted to become a platform company focused on four markets - Gaming, Professional Visualization, Data Centers and Auto.",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			
+			"lastDate" : "25/03/2016"
+}]}

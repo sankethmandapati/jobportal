@@ -1,0 +1,59 @@
+<section id="service">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="feature_header text-center">
+                    <h3 class="feature_title">Government JOBS</h3>
+                    <div class="divider"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="feature_header text-center" ng-repeat="it in govtjobs">
+                    <job-list data-item="it" data-jobtitle="New Job" alert-me="popAlert(msg)"></job-list>
+                </div>
+                
+                <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                        <h2 class="modal-title">{{it.company}}</h2>
+                                      </div>
+                                        <form class="form-horizontal">
+                                          <div class="form-group">
+                                            <label for="inputEmail3" class="col-sm-2 control-label"></label>
+                                            <div class="col-sm-6">
+                                              <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+                                            </div>
+                                          </div>
+                                          <div class="form-group">
+                                            <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
+                                            <div class="col-sm-6">
+                                              <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+                                            </div>
+                                          </div>
+                                          <div class="form-group">
+                                            <div class="col-sm-offset-2 col-sm-10">
+                                              <div class="checkbox">
+                                                <label>
+                                                  <input type="checkbox"> Remember me
+                                                </label>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="form-group">
+                                              <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                                <button type="button" class="btn btn-primary">Apply</button>
+                                              </div>
+                                          </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+            </div>  <!-- Col-md-12 End -->
+        </div>
+    </div>  <!-- Container End -->
+</section>

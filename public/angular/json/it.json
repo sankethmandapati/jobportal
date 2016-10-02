@@ -1,0 +1,45 @@
+{"itjobs" : [{
+			"company" : "Accenture",
+			"logo" : "/images/accenture.png",
+			"experience" : "2 years",
+			"role" : "Application developer",
+			"description" : "Accenture PLC is a multinational management consulting services company.[7] Its incorporated headquarters have been in Dublin, Ireland since 1 September 2009. It is the world's largest consulting firm as measured by revenues[8] and is a Fortune Global 500 company.[9] As of 2015, the company reported net revenues of $31.0 billion, with more than 373,000 employees serving clients in more than 200 cities in 120 countries.[5] In 2015 Accenture had about 130,000 employees in India, more than in any other country, about 60,000 in the US, and about 50,000 in the Philippines.[10] Accenture's current clients include 94 of the Fortune Global 100 and more than 80 percent of the Fortune Global 500.[11]
+
+Accenture common equity is listed on the New York Stock Exchange, under the symbol ACN, and was added to the S&P 500 index on 5 July 2011. In 2015, Fortune magazine named it as the world's most admired Information Technology Services company.",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Sandisk",
+			"logo" : "/images/sandisk.jpg",
+			"experience" : "1.5 years",
+			"role" : "Testing",
+			"description" : "SanDisk manufactures storage products used in data centers and embedded in smartphones, tablets and PCs. SanDisk’s consumer products are available at 300,000 retail stores in more than 100 countries.[7]
+
+SanDisk is led by Sanjay Mehrotra, co-founder, president, and chief executive officer. The Fortune 500 and S&P 500 company is headquartered in Silicon Valley and has offices, design centers, test and assembly plants and NAND flash memory fabs located around the world. The company has manufacturing facilities in China, Japan and Malaysia. SanDisk has sales, operations, research and development, and administration in the United States, China, France, Germany, India, Ireland, Israel, Japan, South Korea, Russia, Scotland, Singapore, Spain, Sweden, Taiwan, and the United Arab Emirates. More than half the company’s sales are outside the United States.[8]
+
+The company has more than 8,600 employees worldwide and is publicly traded on NASDAQ. As of June 2015, its market capitalization was over US$13.3 billion.",
+			"qualification" : "B.Tech",
+			"vacencies" : 15,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "HP",
+			"logo" : "/images/hp.jpg",
+			"experience" : "3 years",
+			"role" : ".Net developer",
+			"description" : "The Hewlett-Packard Company (commonly referred to as HP) was an American multinational information technology company headquartered in Palo Alto, California. It developed and provided a wide variety of hardware components as well as software and related services to consumers, small- and medium-sized businesses (SMBs) and large enterprises, including customers in the government, health and education sectors.
+
+The company was founded in a one-car garage in Palo Alto by William Bill Redington Hewlett and David Dave Packard starting with a line of electronic test equipment. HP was the world's leading PC manufacturer from 2007 to Q2 2013, after which Lenovo remained ranked ahead of HP.[2][3][4] It specialized in developing and manufacturing computing, data storage, and networking hardware, designing software and delivering services. Major product lines included personal computing devices, enterprise and industry standard servers, related storage devices, networking products, software and a diverse range of printers and other imaging products. HP marketed its products to households, small- to medium-sized businesses and enterprises directly as well as via online distribution, consumer-electronics and office-supply retailers, software partners and major technology vendors. HP also had services and consulting business around its products and partner products.",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			},{
+			"company" : "Sapient",
+			"logo" : "/images/sapient.png",
+			"experience" : "2 years",
+			"role" : "Java developer",
+			"description" : "Sapient was founded on November 6, 1990. The two founders, Jerry Greenberg and Stuart Moore, met at Cambridge Technology Partners, an IT services company located in Cambridge, Massachusetts. The co-founders recognized the need for a different type of mindset in the IT consulting world. Sapient chose to use a fixed-term, fixed-price model for pricing projects, rather than charging on a time and materials basis. In addition, Greenberg and Moore relied on their own resources instead of venture capital to fund the company’s operations. This allowed them to keep control of the organization and set long-term strategic goals. During this period, Sapient was also an early adopter of internet-based technology, and internet-based work grew to over 70% of total revenue by 1999. Both client satisfaction and the pioneering use of the internet led to rapid growth in the period from 1992 to 2000, with revenue growing from $950,000 in 1992 to $503 million in 2000.",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+}]}

@@ -1,0 +1,14 @@
+{
+	"category" : [{
+		"name" : "IT Jobs",
+		 "subcategory" : [{
+			"company" : "Accenture",
+			"experience" : "2 years",
+			"role" : "Application developer",
+			"description" : "xyz",
+			"qualification" : "B.Tech",
+			"vacencies" : 5,
+			"lastDate" : "25/03/2016"
+			}]
+		}]
+}
